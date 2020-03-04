@@ -214,4 +214,6 @@ gids： 用户gid数组，如[100334,100221]
  * 新增登陆，注销接口
  * 新增创建会话接口
  
+ ionic 生成的iOS 工程 配置文件没有aps，所以打包时获取不到token
+ https://blog.csdn.net/weixin_30872157/article/details/96206792?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
  
